@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧠 Currently building deep learning models that explore how machines interpret images and time series — from floor plans to environmental trends.<br>🤝 Always open to collaborating on projects that blend AI with real-world utility and a pinch of creativity.<br>🧩 Looking for insights on making neural networks smarter, leaner, and more interpretable. <br>🌄 Born and raised in the heart of the Venetian Dolomites — nature inspires my curiosity and code. <br>🎣 Fun fact: I love fishing — sometimes the best debugging happens along a river.
+🧠 Currently building deep learning models that explore how machines interpret images and time series.<br>🤝 Always open to collaborating on projects that blend AI with real-world utility and a pinch of creativity.<br>🧩 Looking for insights on making neural networks smarter, leaner, and more interpretable. <br>🌄 Born and raised in the heart of the Venetian Dolomites — nature inspires my curiosity and code. <br>🎣 Fun fact: I love fishing — sometimes the best debugging happens along a river.
 
 
 ## 🌐 Socials:
