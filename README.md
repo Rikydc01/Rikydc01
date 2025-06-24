@@ -1,5 +1,9 @@
 # 💫 About Me:
-🧠 I'm currently working on deep learning projects involving computer vision and time series forecasting.<br>🤝 I'm looking to collaborate on AI-driven applications with real-world impact.<br>🙌 I'm looking for help with optimizing neural network architectures.<br>🌱 I'm currently learning more about transformer models and generative AI.<br>💬 Ask me about artificial intelligence, cybersecurity, or cool computer vision tricks.<br>⚡ Fun fact: I once trained a model that could detect rooms in floor plans better than I can in real life.
+🧠 Currently building deep learning models that explore how machines interpret images and time series — from floor plans to environmental trends.
+🤝 Always open to collaborating on projects that blend AI with real-world utility and a pinch of creativity.
+🧩 Looking for insights on making neural networks smarter, leaner, and more interpretable.
+🌄 Born and raised in the heart of the Venetian Dolomites — nature inspires my curiosity and code.
+🎣 Fun fact: I love fishing — sometimes the best debugging happens along a river.
 
 
 ## 🌐 Socials:
